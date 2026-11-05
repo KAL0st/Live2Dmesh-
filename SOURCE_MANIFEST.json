@@ -1,0 +1,60 @@
+{
+  "snapshotDate": "2026-11-06",
+  "files": [
+    {
+      "path": "src/core/MeshAutoGen.h",
+      "sha256": "11d07bf003d918eaa1e9fdae9bb5863516d03cc249dd4ea980ed10c3dc914465",
+      "scope": "current working source; line endings normalized to LF"
+    },
+    {
+      "path": "src/core/MeshAutoGen.cpp",
+      "sha256": "6de723be75c8e32e4b22c43b701cff3acadf0112bc930413833d174d864b1df9",
+      "scope": "current working source; line endings normalized to LF"
+    },
+    {
+      "path": "src/core/MeshTextureFeatures.h",
+      "sha256": "65c7e11cec430c010ec76a8551226f8add94e7896328da33978c8b8a74825476",
+      "scope": "current working source; line endings normalized to LF"
+    },
+    {
+      "path": "src/core/MeshTextureFeatures.cpp",
+      "sha256": "48caa69b32b7cbf29f5bbf73192e52fc61f688a4bb4923c73a2d4d588849dd6e",
+      "scope": "current working source; line endings normalized to LF"
+    },
+    {
+      "path": "src/core/MeshStripSampling.h",
+      "sha256": "fc823b474b52933b1949f22196073d2f988025f251dff53c3b8d7c523d5cc8b2",
+      "scope": "current working source; line endings normalized to LF"
+    },
+    {
+      "path": "src/core/MeshSymmetry.h",
+      "sha256": "fe16d331d9f09150b68b69e0f83f3219ce2fe08cb0619963bf5fb44e993d0e97",
+      "scope": "current working source; line endings normalized to LF"
+    },
+    {
+      "path": "src/edit/DelaunayTri.h",
+      "sha256": "325e5a5d215940bb85f5ba8df594749738e755c95f6a661c0c4798468a40990e",
+      "scope": "current working source; line endings normalized to LF"
+    },
+    {
+      "path": "src/edit/DelaunayTri.cpp",
+      "sha256": "4f438b7de2cd64d8deede07aa87186c389a0bd29148aa70a468b8dbdb6f54fdc",
+      "scope": "current working source; line endings normalized to LF"
+    },
+    {
+      "path": "src/edit/MeshTopology.h",
+      "sha256": "06390a48641bf4c19789daf97d9b92979b8a0142c320a32a1884425cd952b31d",
+      "scope": "auto-mesh geometry prefix only; manual editing section excluded"
+    },
+    {
+      "path": "src/edit/MeshTopology.cpp",
+      "sha256": "6df5a4a44078cef6ede4d8fc88f4cac77a09d4634d6e22295dbfbe59c1053a81",
+      "scope": "auto-mesh geometry prefix only; manual editing section excluded"
+    },
+    {
+      "path": "tools/delaunay_test.cpp",
+      "sha256": "058a29381b62f40da4e951b6b6ffc1ac1d4e790fe929009c07b78ce612fcfe0c",
+      "scope": "current working source; line endings normalized to LF"
+    }
+  ]
+}
